@@ -7,7 +7,7 @@ This is a simple calculator made in Java with a Swing front-end. To run the calc
 To get started, you will need to download the source code for the calculator. You can do this by cloning the repository:
 
 ```
-git clone https://github.com/yourusername/java-swing-calculator.git
+git clone git@github.com:Rothoff/Calculator.git
 ```
 Once you have the source code, you can open it in your preferred Java compiler. The main class is Calculator.java, which you can run to start the calculator.
 
